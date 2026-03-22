@@ -1,0 +1,12 @@
+# NAME: CustomGooglePlay# AUTHOR: dzxw
+# REPO: custom
+# UPDATED: 2026-03-22 10:47:50
+# rules: 5
+# DOMAIN-SUFFIX: 1
+# TOTAL: 5
+
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-KEYWORD,googleapis
+DOMAIN-KEYWORD,xn--ngstr-lra8j
