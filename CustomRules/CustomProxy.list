@@ -1,66 +1,39 @@
-# NAME: CustomProxy
+# NAME: CustomDirect
 # AUTHOR: dzxw
 # REPO: custom
-# UPDATED: 2026-03-22 09:53:50
-# rules: 58
+# UPDATED: 2026-03-22 09:59:50
+# rules: 30
 # DOMAIN-SUFFIX: 1
-# TOTAL: 58
+# TOTAL: 30
 
-+.byg.zzxuh.com
-+.sosugary.com
-+.sing-box.sagernet.org
-+.wallvpn.com
-+.vpnpicks.com
-+.vpnpicks.com
-+.software.charliemonroe.net
-+.charliemonroe.net
-+.wallhaven.cc
-+.astrill.com
-+.qichiyu.com
-+.browserleaks.net
-+.bbc.gscontxt.net
-+.browserscan.net
-+.surfsharkdns.com
-+.edns.ip-api.com
-+.tinymediamanager.org
-+.tvmaze.com
-+.themoviedb.org
-+.fanart.tv
-+.imdb.com
-+.thetvdb.com
-+.vecteezy.com
-+.kuafuzys.com
-+.torrentgalaxy.one
-+.tgx.cx
-+.pexels.com
-+.yinfans.cc
-+.yinfans.me
-+.kuafuzy.vip
-+.hongxingyun.help
-+.hongxingyun.xyz
-+.xiaoniuyun.cc
-+.maison-close.com
-+.bygcloud.com
-+.svcloud.one
-+.storyblocks.com
-+.qspace.awehunt.com
-+.flybit.vip
-+.polybase.sbs
-+.gh-proxy.com
-+.github.com
-+.unsplash.com
-+.behance.net
-+.qzanpj.cn
-+.sonegame.com
-+.ssone.uk
-+.apple-bing.sbs
-+.femina.co.il
-+.poly-gw.com
-+.cocoduck.live
-+.fivmagazine.com
-+.sutong.you
-+.takaaki-ishikura.com
-+.stga.cn
-+.sosugary.com
-+.pornhub.com
-+.xiaoniuyun.cc
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,cn.bing.com
+DOMAIN-SUFFIX,time.windows.com
+DOMAIN-SUFFIX,piratebayproxy.live
+DOMAIN-SUFFIX,thepiratebay10.info
+DOMAIN-SUFFIX,piratebay.party
+DOMAIN-SUFFIX,netify.ai
+DOMAIN-SUFFIX,media-imdb.com
+DOMAIN-SUFFIX,thetvdb.com
+DOMAIN-SUFFIX,api4.thetvdb.com
+DOMAIN-SUFFIX,sg.media-imdb.com
+DOMAIN-SUFFIX,v2.sg.media-imdb.com
+DOMAIN-SUFFIX,getsupport.apple.com
+DOMAIN-SUFFIX,wallhaven.cc
+DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,miguvideo.com
+DOMAIN-SUFFIX,flow.logitech.io
+DOMAIN-SUFFIX,zidoo.net
+DOMAIN-SUFFIX,htapi.zidoo.net
+DOMAIN-SUFFIX,android.pool.ntp.org
+DOMAIN-SUFFIX,cn.pool.ntp.org
+DOMAIN-SUFFIX,pool.ntp.org
+DOMAIN-SUFFIX,api.tvmaze.com
+DOMAIN-SUFFIX,2.android.pool.ntp.org
+DOMAIN-SUFFIX,guessit.io
+DOMAIN-SUFFIX,rog-live-service.asus.com
+DOMAIN-SUFFIX,3.pool.ntp.org
+DOMAIN-SUFFIX,tgx.sb
+DOMAIN-SUFFIX,torrentgalaxy.to
+DOMAIN-SUFFIX,torrentgalaxy.mx
+DOMAIN-SUFFIX,tgx.rs
