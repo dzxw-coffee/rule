@@ -1,0 +1,39 @@
+# NAME: CustomDirect
+# AUTHOR: dzxw
+# REPO: custom
+# UPDATED: 2026-03-22 09:59:50
+# rules: 30
+# DOMAIN-SUFFIX: 1
+# TOTAL: 30
+
++.bing.com
++.cn.bing.com
++.time.windows.com
++.piratebayproxy.live
++.thepiratebay10.info
++.piratebay.party
++.netify.ai
++.media-imdb.com
++.thetvdb.com
++.api4.thetvdb.com
++.sg.media-imdb.com
++.v2.sg.media-imdb.com
++.getsupport.apple.com
++.wallhaven.cc
++.xiaohongshu.com
++.miguvideo.com
++.flow.logitech.io
++.zidoo.net
++.htapi.zidoo.net
++.android.pool.ntp.org
++.cn.pool.ntp.org
++.pool.ntp.org
++.api.tvmaze.com
++.2.android.pool.ntp.org
++.guessit.io
++.rog-live-service.asus.com
++.3.pool.ntp.org
++.tgx.sb
++.torrentgalaxy.to
++.torrentgalaxy.mx
++.tgx.rs
