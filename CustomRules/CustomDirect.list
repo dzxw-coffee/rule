@@ -5,7 +5,6 @@
 # rules: 30
 # DOMAIN-SUFFIX: 1
 # TOTAL: 30
-
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,cn.bing.com
 DOMAIN-SUFFIX,time.windows.com
