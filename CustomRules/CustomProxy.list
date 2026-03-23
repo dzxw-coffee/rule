@@ -1,4 +1,4 @@
-# NAME: CustomDirect
+# NAME: CustomProxy
 # AUTHOR: dzxw
 # REPO: custom
 # UPDATED: 2026-03-22 09:59:50
@@ -64,3 +64,6 @@ DOMAIN-SUFFIX,sosugary.com
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,xiaoniuyun.cc
 DOMAIN-KEYWORD,flybit
+DOMAIN-KEYWORD,cocoduck
+DOMAIN-KEYWORD,ssone
+
